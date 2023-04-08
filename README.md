@@ -23,4 +23,4 @@ $ brunch new project-name -s es6
 - npm install
 - npm run start
 - Git: git add . && git commit -m "C" && git push origin main
-- Vercel: vercel --prod
+- Vercel: vercel --prod (not required here)
